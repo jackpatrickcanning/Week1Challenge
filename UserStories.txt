@@ -18,7 +18,7 @@ When - they decide on the movie of they choice
 
 And - select the book now
 
-then - they will be able to see the times and dates available
+then - they will be able to see the times and dates available on
 
 account registration
 Given - the user wants to use the site frequently and/or to receive offers
@@ -41,7 +41,7 @@ Then - then the user can be able to watch the trailer thats been hosted for us
 
 
 Staff member
-
+Staff members have the need to be able to see the booking confirmations of users, so they can find and print the relevent tickets.
 Booking access
 Given - the staff member has access to the booking confirmation page
 
