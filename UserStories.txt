@@ -1,1 +1,15 @@
+User stories 
 
+User/customer
+
+seat booking
+Given- the user is on the booking page
+
+When - I select the movie they want to watch 
+
+And - select the seats they wish to book
+
+Then - it will allow the user to book the seats of thir choice
+
+Show times
+Given - the user is on the 
