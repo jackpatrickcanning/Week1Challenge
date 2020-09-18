@@ -1,5 +1,7 @@
 User stories 
+EPIC - The user would like to be able to be able to book online and collect the tickets they purchased online in the cinema. 
 
+     
 User/customer
 
  
