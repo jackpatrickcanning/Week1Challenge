@@ -2,7 +2,9 @@ User stories
 
 User/customer
 
-seat booking
+ 
+Seat booking
+as a user they would like to be able to book and select the seat of their choosing for the film they desire to watch.
 Given- the user is on the booking page
 
 When - I select the movie time they want to watch it at
@@ -11,7 +13,7 @@ And - select the seats they wish to book
 
 Then - it will allow the user to book the seats of their choice
 
-Show times
+Show times- The user would like to be able to see the show times and dates available for the movie of their choosing.  
 Given - the user is on the website
 
 When - they decide on the movie of they choice
@@ -20,7 +22,7 @@ And - select the book now
 
 then - they will be able to see the times and dates available on
 
-account registration
+account registration - as a User they would like to be able to create an account to save their details to make the booking more streamlined when they use the site the next time. 
 Given - the user wants to use the site frequently and/or to receive offers
 
 when - they go to the payment part of the booking page 
@@ -29,7 +31,7 @@ And - select check out as guest or register
 
 Then - the customer will be able to set an account up to make processing bookings in the future faster 
 
-Trailer for movie page
+Trailer for movie page - As a user they would like to be able to view the trailer for the movie listed, to decide on whether or not they wish to view it. 
 Given - user is on the website 
 
 when - select on the movie page 
@@ -41,8 +43,8 @@ Then - then the user can be able to watch the trailer thats been hosted for us
 
 
 Staff member
-Staff members have the need to be able to see the booking confirmations of users, so they can find and print the relevent tickets.
-Booking access
+
+Booking access - as a Staff member they would like to be able to see the booking confirmations of users, so they can find and print the relevent tickets.
 Given - the staff member has access to the booking confirmation page
 
 when - the user wants to get their tickets from the online booking
@@ -51,7 +53,7 @@ And - The staff member has access to the bottom confirmation page
 
 Then - The staff member will be able to find the booking confirmation and print the tickets for the user
 
-Show time changes
+Show time changes - As a staff member they would like to be able to view and amend show times as and when needed dependent of screen availblity so they can prioritise movies theat are doing better in ticket sales. 
 Given - The staff member his on the movie listing pages
 
 when - When deciding what films I will shower and then what screen and what time
@@ -60,7 +62,7 @@ And - The staff and has access to the page
 
 Then - The staff member will be able to decide what time and dates movies will be listed at
 
-See seat availability/seat location
+See seat availability/seat location - As a staff member they would lik to be ble to see what seats are available, live, so they can make sure the user gets the choice in booking seats and to prevent double booking/ over selling seats 
 Given - The staff member is on the booking confirmation page
 
 when - The staff member wants to book a ticket or tickets for the user
@@ -69,7 +71,7 @@ And - Can see availability of seats and films
 
 Then - The staff member will be able to show the user what screens and films are available and be able to book the correct seats
 
-Change screens
+Change screens - As a staff member there is times when a screen needs to be taken down, due to maintenence so it would be usefulfor them to be able to take that off availbilty, so that they don't over book. 
 Given - Fact that the film may need to change screen for any particular reason i.e. conflict or a screen been down for maintenance
 
 when - The staff member needs to change said screening
@@ -84,7 +86,7 @@ Then - Staff will be able to change but what will be showing what screen and if 
 Admin
 
 
-Password reset link
+Password reset link - When the users create an account for more streamlined bookings.  as the user may forget the password, there needs to be an ability to reset the password via a link, to enable them to log in. 
 Given - The user has set up their own login page
 
 when - the user has forgotten what password they've set for their account
@@ -93,7 +95,8 @@ And - uses the password reset link
 
 Then - Change password for their account to enable them to book the film and time they just desire
 
-Access control to booking 
+Access control to booking - as an admin, we need to be able to give and amend privillages, so that members and staff have different access. So We need to be able to allow staff members the privillages, in order to access the bookings madeby the users and also make bookings for the movies themselves. 
+
 Given - The staff member needs to change the booking for the customer or even set a ticket booking
 
 when - The staff member access as the booking confirmation page
@@ -102,7 +105,7 @@ And - Logs into the page
 
 Then - The staff will be able to print out the tickets so the customer can go watch that film
 
-Access control to account access
+Access control to account access - As an admin we need to be able to control what access users and staff members have, this is becsuse both sides require different things in order to complete their own personal task, i.e book tickets in house, see bookings etc. 
 Given - The need for not only users and staff members to be able to access different parts of the website
 
 when - When the staff member needs to access a certain part of the website a booking confirmations ≈
